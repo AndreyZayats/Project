@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="socio:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="socio-0.1.war">
+      <element id="artifact" artifact-name="socio:war exploded" />
+    </root>
+  </artifact>
+</component>

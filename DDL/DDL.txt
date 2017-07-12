@@ -1,0 +1,6 @@
+CREATE TABLE socio_user
+(
+    id INTEGER PRIMARY KEY NOT NULL,
+    name VARCHAR(20),
+    age INTEGER
+);
